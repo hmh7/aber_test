@@ -1,4 +1,5 @@
-I guess some code goes in here.
-int n ; 
-n = 4;
-System.out.print(n +  "hooray");
+public Github{
+  public static void main(String[] args){
+    System.out.print(n +  "hooray");
+  }
+}
