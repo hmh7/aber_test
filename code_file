@@ -1,3 +1,4 @@
 I guess some code goes in here.
-
-System.out.print("hooray");
+int n ; 
+n = 4;
+System.out.print(n +  "hooray");
